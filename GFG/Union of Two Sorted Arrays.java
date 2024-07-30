@@ -1,7 +1,4 @@
 
-
-//User function Template for Java
-
 //arr1,arr2 : the arrays
 // n, m: size of arrays
 class Solution
